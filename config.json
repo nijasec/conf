@@ -1,6 +1,6 @@
 {
   "conf":[
-       {"id":1,"name":"server1","user":"anasVPN","pswd":"anas","file":"client
+       {"id":1,"name":"server1","file":"client
 proto tcp-client
 remote 3.21.76.181 443
 dev tun
